@@ -10,8 +10,6 @@ Le registre de preuve de covoiturage est un projet [beta.gouv.fr](https://beta.g
 - [Metabase](https://stats.covoiturage.beta.gouv.fr)
 - [Page de statut des services](https://status.covoiturage.beta.gouv.fr)
 - [Dépôt de l'application](https://github.com/betagouv/preuve-covoiturage) (monorepo)
-- [Dépôt de l'infrastructure (ancien)](https://github.com/betagouv/preuve-covoiturage-infra)
-- [Dépôt de l'infrastructure (nouveau)](https://github.com/covoiturage-gouv-fr/infra)
 
 # License
 
